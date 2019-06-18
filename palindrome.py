@@ -15,14 +15,12 @@
     Rotator
     Rotor
     
-    Don't nod.
-    I did, did I?
+    Don't nod
+    I did, did I
     My gym
     Red rum, sir, is murder
     Step on no pets
     Top spot
-    Was it a cat I saw?
-    Eva, can I see bees in a cave?
     No lemon, no melon
  
 '''
