@@ -8,3 +8,4 @@ if palindrome == reversedString:
     print("Word or phrase is a palindrome.")
 else:
     print("Not a palindrome. {}".format(entered_value))    
+    
